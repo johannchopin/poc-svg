@@ -6,7 +6,7 @@
     ry="5"
     width="300"
     height="86"
-    fill="#000"
+    fill="red"
   ></rect>
   <svg x="11" y="11" width="auto">
     <image transform="translate(0,0)" width="64" height="64" ry="30" href="https://i.stack.imgur.com/4iGwt.jpg" />
